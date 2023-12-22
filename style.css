@@ -1,29 +1,33 @@
-*{
-    background-color: #faf9f6;
-    font-family: "Poppins", sans-serif;
-
+* {
+  background-color: #faf9f6;
+  font-family: "Poppins", sans-serif;
 }
-#creative{
-    color: rgb(22, 22, 105);
+#creative {
+  color: rgb(22, 22, 105);
 }
-h2{
-    font-size: 60px;
+h2 {
+   font-size: 60px;
 }
-div{
-    display: inline-block;
-    
+div {
+  height: 150px;
+  display: inline-block;
 }
-p{
-    font-size: 10px;
-    display: inline-block;
-    width: 425px;
-    height: 200px;
+p {
+  margin-left: 23px;
+  margin-top: 1PX;
+  font-size: 10px;
+  display: inline-block;
+  width: 425px;
 }
-strong{
-    font-size: 15px;
+#beauty,
+#construction {
+  float: right;
 }
-footer{
-    font-size: small;
-    color: rgb(62, 62, 146);
-    text-align: right;
+strong {
+  font-size: 15px;
+}
+footer {
+  font-size: small;
+  color: rgb(62, 62, 146);
+  text-align: right;
 }
